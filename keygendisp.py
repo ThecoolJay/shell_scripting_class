@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+!/usr/bin/python3
 import random
 name = input ("please enter your name:")
 age = input ( "please enter your age:")
